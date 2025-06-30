@@ -1,0 +1,4 @@
+id_reserva,id_usuario,id_cancha,fecha,hora_inicio,hora_fin,estado
+R1001,U1001,C001,2025-07-10,09:00,10:00,pendiente
+R1002,U1002,C002,2025-07-11,14:00,15:30,pagado
+R1003,U1003,C001,2025-07-12,16:00,17:00,cancelado
