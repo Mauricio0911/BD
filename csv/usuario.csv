@@ -1,0 +1,7 @@
+IdUsuario,DNI,Nombre,Email,TipoUsuario
+U1001,12345678,Ana Pérez,ana.perez@ejemplo.com,socio
+U1002,87654321,Carlos Gómez,carlos.gomez@ejemplo.com,administrador
+U1003,45678912,María Ruiz,maria.ruiz@ejemplo.com,externo
+U1004,23456789,José Vargas,jose.vargas@ejemplo.com,socio
+U1005,98765432,Laura Díaz,laura.diaz@ejemplo.com,administrador
+U1006,34567890,Pedro León,pedro.leon@ejemplo.com,externo

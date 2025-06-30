@@ -1,0 +1,3 @@
+IdPago,IdReserva,Monto,Estado,MedioPago,FechaPago
+P1001,R1002,120.00,confirmado,tarjeta,2025-07-11
+P1002,R1001, 80.00,pendiente,efectivo,2025-07-10

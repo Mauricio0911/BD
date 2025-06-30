@@ -1,0 +1,4 @@
+IdReserva,IdCancha,DNI,IdSocio,IdExterno,Fecha,HoraInicio,HoraFin,Estado
+R1001,C001,12345678,U1001,,2025-07-10,09:00,10:00,pendiente
+R1002,C002,87654321,U1002,,2025-07-11,14:00,15:30,pagado
+R1003,C001,45678912,,U1003,2025-07-12,16:00,17:00,cancelado
